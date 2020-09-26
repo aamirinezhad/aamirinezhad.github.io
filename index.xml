@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Amirinezhad</title>
+    <link>https://amirinezhad.ir/</link>
+    <description>Recent content on Ali Amirinezhad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://amirinezhad.ir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://amirinezhad.ir/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirinezhad.ir/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://amirinezhad.ir/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirinezhad.ir/about/</guid>
+      <description>Student of Computer Engineering  I am a follower of state-of-art AI who is going to be a pioneer shortly. My favorite fields are Deep Learning, Natural Language Processing specifically, and also I am interested in Reinforcement Learning. My hobbies are jogging and playing chess.
+ </description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>https://amirinezhad.ir/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirinezhad.ir/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>GET IN TOUCH</title>
+      <link>https://amirinezhad.ir/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirinezhad.ir/contact/</guid>
+      <description>Email : callmeamiri@gmail.com ✉️
+Telegram : ID : @amirinezhad</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://amirinezhad.ir/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirinezhad.ir/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>https://amirinezhad.ir/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirinezhad.ir/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/tags/%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/</loc>
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/tags/%D9%87%D9%88%D8%B4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/categories/%D9%87%D9%88%D8%B4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirinezhad.ir/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://amirinezhad.ir/fa/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirinezhad.ir/fa/posts/%D9%BE%D8%B3%D8%AA-%D8%A7%D9%88%D9%84/</loc>
+  </url>
+  
+</urlset>
